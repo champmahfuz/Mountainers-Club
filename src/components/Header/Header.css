@@ -1,0 +1,27 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ .header{
+     text-align: center;
+     background-color: rgb(73, 68, 67);
+     color: white;
+     
+ }
+ .header span{
+     color: blue;
+ }
+
+ .go{
+     color: blue;
+ }
+ .header-container{
+    
+    
+     background-repeat: no-repeat;
+     height: 200px;
+    
+
+     
+   
+}

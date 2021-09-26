@@ -1,0 +1,48 @@
+.profile{
+
+    margin: 25px;
+    padding: 50px;
+    border: 1px solid lightslategray;
+    background-color: rgba(219, 226, 233, 0.952);
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 2px #6868687c;
+    
+
+    /* box-shadow: 5px 10px rgb(104, 103, 96); */
+   
+}
+
+.profile-container{
+    margin: 10px;
+    padding: 10px;
+}
+
+.hire-container{
+    margin-top: 50px;
+}
+
+.hire{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    background-color: rgba(219, 226, 233, 0.952);
+    border-radius: 5px;
+}
+.profile-img img{
+    width: 50%;
+    height: 90px;
+    border-radius: 50%;
+}
+.btn-regular{
+    background-color: rgb(60, 60, 206);
+    width: 200px;
+    height: 30px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    color: lightyellow;
+    cursor: pointer;
+}
+
+
+
+
