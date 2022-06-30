@@ -12,6 +12,7 @@ const Header = () => {
                 <h3>Win the mountains</h3>
                 <h2>Budget: $500000</h2>
                 <h2 className="go">Let's go!</h2>
+                {/* added comment */}
 
             </div>
         </div>
