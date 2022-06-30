@@ -2,6 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './Profile.css';
+import MessengerCustomerChat from 'react-messenger-customer-chat/lib/MessengerCustomerChat';
 
 const Profile = (props) => {
     // console.log(props);
@@ -27,6 +28,10 @@ const Profile = (props) => {
                     className="btn-regular">{element} Add to cart</button>
 
             </div>
+            <MessengerCustomerChat
+                pageId="101722142602573"
+                appId=" 71020473359128"
+            />,
         </div>
 
 
